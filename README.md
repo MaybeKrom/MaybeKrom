@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulkarim a Computer Science student 
-- 👀 I’m interested in Cybersecurity, Cloud and Networks
+- 👀 I’m interested in Network and Cybersecurity
 - 📫 How to reach me X(Twitter): @matsokasama
 - ⚡ Fun fact: i hate coding and prgramming that's why i choosed Cybersecurity as career XD
 
