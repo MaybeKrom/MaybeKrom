@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulkarim a Computer Science student 
 - 👀 I’m interested in Network and Cybersecurity
-- 📫 How to reach me X(Twitter): @matsokasama
+- 📫 How to reach me (Email): kom.sul.sh@gmail.com
 - ⚡ Focus: Network Infrastructure & Security (I prefer packets over pixels ;) )
 
 <!---
